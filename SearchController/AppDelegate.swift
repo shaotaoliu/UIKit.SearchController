@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  ControllerTransition
+//  SearchController
 //
 //  Created by Bruce Liu on 5/27/22.
 //
